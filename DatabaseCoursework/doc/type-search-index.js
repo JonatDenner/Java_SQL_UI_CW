@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"databaseCoursework","l":"DatabaseConnect"},{"p":"databaseCoursework","l":"GUI"},{"p":"databaseCoursework","l":"Launcher"},{"p":"databaseCoursework","l":"SQL"}]
